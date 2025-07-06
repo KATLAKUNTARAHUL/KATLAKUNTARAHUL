@@ -46,7 +46,7 @@ A system to detect copied assignments and fraudulent signatures using handwritin
 - ✅ Flags potential forgeries and copied content
 - 📄 Ideal for academic assignment validation and signature verification
 
-🔗 [Project Repository](https://github.com/KATLAKUNTARAHUL/Genuine-Grader)
+🔗 [Project Repository](https://github.com/KATLAKUNTARAHUL/KATLAKUNTARAHUL/commit/8e2b9d475f1e8c0396ccaddc89c353e4bb32a1da)
 
 ---
 
