@@ -9,40 +9,38 @@
 
 ## 🚀 About Me  
 🌟 *Aspiring AI & Web Developer* | *B.Tech AI-ML Student at Malla Reddy University*  
-💻 Passionate about building AI tools, interactive web apps, and solving real-world problems through technology.
+💻 Passionate about Web Development, Artificial Intelligence, and solving real-world problems with smart technology.
 
 ---
 
 ## 🔥 Featured Projects  
 
-### 📝 Resume Buddy (AI Resume Generator) – *New*
-An AI-powered web app that creates professional, ATS-friendly resumes automatically.  
-- 🤖 Uses NLP for content generation  
-- 🖥 Frontend: React.js  
-- ⚙️ Backend: Python Flask  
-- 🗄 Database: MySQL  
-- 🎯 Helps students and job seekers build resumes quickly and smartly  
+### 📝 Resume Buddy (AI Resume Generator)
+An AI-powered web application that creates ATS-friendly professional resumes automatically.  
+- 🤖 NLP-based smart content generation  
+- 🖥 React.js frontend  
+- ⚙️ Python Flask backend  
+- 🗄 MySQL database  
+- 🎯 Helps students and job seekers build resumes easily  
 
-🔗 **Repository:** *(Add your GitHub link here)*
+🔗 **Repository:** *(Add your repo link here)*
 
 ---
 
 ### 🎤 Personal Voice Assistant (Python)
-A voice-controlled personal assistant that responds interactively.  
-- Plays songs, tells jokes, answers queries  
-- Built using `speech_recognition`, `pyttsx3`, `wikipedia`, etc.  
+A voice-recognition assistant built using Python.  
 🔗 [Repository](https://github.com/KATLAKUNTARAHUL/Voice-Assistant)
 
 ---
 
 ### ⚽ Catch the Ball Game (JavaScript & Canvas)
-A fun and interactive web game using HTML Canvas and JavaScript.  
+A fun interactive ball-catching game using HTML Canvas.  
 🔗 [Repository](https://github.com/KATLAKUNTARAHUL/Ball-Game)
 
 ---
 
 ### 🔍 Genuine Grader (AI Handwriting Detection)
-Detects copied assignments and forged signatures using ML.  
+Detects copied assignments and signature forgeries.  
 🔗 [Repository](https://github.com/KATLAKUNTARAHUL/KATLAKUNTARAHUL/commit/8e2b9d475f1e8c0396ccaddc89c353e4bb32a1da)
 
 ---
@@ -55,15 +53,45 @@ Tech: Next.js, LangChain, ConvexDB, MongoDB, Gemini
 ---
 
 ### 🏆 CodeMasters (AI-powered LMS)
-A free AI-enabled Learning Management System for coders.  
+AI-enabled Learning Management System for coding students.  
 🔗 [Repository](https://github.com/KATLAKUNTARAHUL/CodeMasters-Frontend)
 
 ---
 
 ### 🛒 Custom E-Commerce Platform
-A full e-commerce app with payments and product management.  
-Tech: React, Node.js, Express, MongoDB  
+E-commerce platform with payments and full CRUD features.  
 🔗 [Repository](https://github.com/KATLAKUNTARAHUL/CustomEcommerce)
+
+---
+
+## 📜 Certifications  
+
+### 🏆 Deloitte – Technology Job Simulation  
+**Date:** July 14th, 2025  
+Completed tasks in:  
+- Coding  
+- Development  
+Issued by **Forage**, signed by **Tina McCreery**, CHRO, Deloitte.
+
+---
+
+### 🏢 Accenture – Developer & Cloud Virtual Experience  
+Completed tasks in:  
+- Software development  
+- Cloud fundamentals  
+- Problem-solving  
+Issued by **Forage**.
+
+---
+
+### 🏢 TATA / TCS iON – Career Edge & Job Simulation  
+Completed certified training in IT foundations, communication, corporate skills, and basic coding.
+
+---
+
+### 📁 **All Certificates (Drive Folder)**  
+📂 **View All Certificates:**  
+https://drive.google.com/drive/folders/1m4ptO0rd1Cgn06XymHDxui9KYXa8f6ee?usp=drive_link  
 
 ---
 
@@ -81,25 +109,25 @@ MongoDB, MySQL
 **AI & ML:**  
 Google Gemini, LangChain  
 
-**Tools & DevOps:**  
+**DevOps & Tools:**  
 Firebase, Git, Razorpay, PayPal  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KATLAKUNTARAHUL&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KATLAKUNTARAHUL&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KATLAKUNTARAHUL&theme=radical)
-![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KATLAKUNTARAHUL&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KATLAKUNTARAHUL&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KATLAKUNTARAHUL&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KATLAKUNTARAHUL&theme=radical)  
+![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KATLAKUNTARAHUL&theme=radical)  
 
 ---
 
 ## 🌟 Let’s Connect  
 📩 Email: **katlakuntarahul722@gmail.com**  
 💼 LinkedIn: **www.linkedin.com/in/katlakunta-rahul-ab9009329**  
-📄 Resume: *(link above)*  
+📄 Resume: *(Link above)*  
 
 ---
 
-✨ *“Building the future, one line of code at a time!”* 🚀  
+✨ *“Building the future, one line of code at a time!”* 🚀
