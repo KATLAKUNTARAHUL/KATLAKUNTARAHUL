@@ -111,23 +111,6 @@ An AI-powered web application that helps citizens discover government welfare sc
 * CSV Data Processing
 
 ---
-
-# 🚀 Projects
-
-## 📝 Resume Buddy – AI Resume Generator
-
-An AI-powered web application that creates ATS-friendly professional resumes automatically.
-
-**Tech Stack**
-
-* React.js
-* Flask
-* Python
-* MySQL
-* NLP
-
----
-
 ## ✨ NoteAura – AI Note-Taking SaaS
 
 An intelligent note-taking platform featuring AI-powered summaries, flashcards, MCQ generation, and smart search.
@@ -141,21 +124,6 @@ Repository
 👉 https://github.com/KATLAKUNTARAHUL/NoteAura
 
 ---
-
-## 🏆 CodeMasters – AI Learning Management System
-
-An AI-powered LMS designed for coding students with smart learning assistance.
-
-**Features**
-
-* AI Tutor
-* Coding Practice
-* Student Dashboard
-* Learning Analytics
-
-Repository
-
-👉 https://github.com/KATLAKUNTARAHUL/CodeMasters-Frontend
 
 ---
 
@@ -189,11 +157,6 @@ Repository
 
 ---
 
-## 🔍 Genuine Grader
-
-AI-powered handwriting verification system for detecting copied assignments and signature forgeries.
-
----
 
 # 🏆 Certifications
 
