@@ -219,7 +219,7 @@ A Python-based voice assistant capable of receiving voice commands and performin
 `Python` `Speech Recognition` `Text-to-Speech`
 
 **Repository →**
-https://github.com/KATLAKUNTARAHUL/Voice-Assistant
+https://github.com/KATLAKUNTARAHUL/voice-assistance
 
 ---
 
