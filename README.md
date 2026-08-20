@@ -1,240 +1,346 @@
-# <h1 align="center">Hi 👋, I'm Rahul Katlakunta</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Full-Stack Developer| Building Intelligent Web Applications
-</h3>
+# ⚡ RAHUL KATLAKUNTA
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;Passionate+about+Artificial+Intelligence;React+%7C+Next.js+%7C+Node.js+%7C+Python;Always+Learning+and+Building" />
-</p>
+### `AI Engineer in Progress` · `Full-Stack Developer` · `Builder`
 
-<p align="center">
-<a href="https://komarev.com/ghpvc/?username=KATLAKUNTARAHUL">
-<img src="https://komarev.com/ghpvc/?username=KATLAKUNTARAHUL&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Products;Exploring+Generative+AI+%26+LLMs;Turning+Ideas+Into+Working+Software;Learning+Something+New+Every+Day" />
+
+<br/>
+
+<a href="https://rahul-protfolio.lovable.app">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-00F7FF?style=for-the-badge&labelColor=0B0F19&color=00F7FF" />
 </a>
-<a href="https://github.com/KATLAKUNTARAHUL?tab=followers">
-<img src="https://img.shields.io/github/followers/KATLAKUNTARAHUL?label=Followers&style=social" />
+&nbsp;
+<a href="https://www.linkedin.com/in/rahul-katlakunta-ab9009329">
+<img src="https://img.shields.io/badge/LINKEDIN-0B66C3?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</p>
+&nbsp;
+<a href="mailto:katlakuntarahul722@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=KATLAKUNTARAHUL&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+
+</div>
 
 ---
 
-# 🚀 About Me
+## 🧠 WHO AM I?
 
-🎓 Final Year **B.Tech Artificial Intelligence & Machine Learning** student at **Malla Reddy University**.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  🎓 B.Tech — Artificial Intelligence & Machine Learning       │
+│  🏫 Malla Reddy University                                  │
+│  📊 CGPA — 8.24                                              │
+│                                                              │
+│  I build software at the intersection of:                   │
+│                                                              │
+│       🤖 Artificial Intelligence                             │
+│       🌐 Full-Stack Development                              │
+│       🧠 Generative AI                                      │
+│       🛠️ Real-World Problem Solving                         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-I'm passionate about building AI-powered and full-stack web applications that solve real-world problems. I enjoy exploring Artificial Intelligence, Backend Development, and modern web technologies while continuously learning new tools.
+I'm passionate about turning ideas into **working products**.
 
-* 🌱 Currently learning **Generative AI, LLMs, LangChain, RAG & Cloud**
-* 💻 Interested in **Software Engineering, AI Engineering & Full-Stack Development**
-* 🚀 Open to Internship and Full-Time Opportunities
-* ⚡ Love turning ideas into impactful products
+I enjoy building applications where AI isn't just a feature —
+**it's part of the solution.**
+
+> Currently exploring **Generative AI · LLMs · LangChain · RAG · Machine Learning**
 
 ---
 
-# 🌐 Portfolio & Contact
+# 🚀 WHAT I BUILD
 
-🌍 **Portfolio**
-https://rahul-protfolio.lovable.app
+<table>
+<tr>
+<td width="50%">
 
-💼 **LinkedIn**
-https://www.linkedin.com/in/rahul-katlakunta-ab9009329
+### 🤖 AI Applications
 
-📄 **Resume**
-https://drive.google.com/file/d/1q-aOWCsO6vmCrwV2BSRFldmzqdFSwyLb/view?usp=sharing
+Generative AI
+LLM Applications
+NLP
+AI Assistants
+Prompt Engineering
 
-📧 **Email**
-[katlakuntarahul722@gmail.com](mailto:katlakuntarahul722@gmail.com)
+</td>
+
+<td width="50%">
+
+### 🌐 Full-Stack Systems
+
+React
+Next.js
+Node.js
+Python
+FastAPI
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Data & ML
+
+Machine Learning
+NumPy
+Pandas
+OpenCV
+Data Processing
+
+</td>
+
+<td width="50%">
+
+### 🗄️ Backend & Tools
+
+MongoDB
+MySQL
+Firebase
+Git
+GitHub
+Postman
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 💻 Tech Stack
+# 🔥 FEATURED PROJECTS
+
+## 🏛️ AI GOVERNMENT SCHEME FINDER
+
+### `AI × Accessibility × Real-World Impact`
+
+> **Finding the right government scheme shouldn't be difficult.**
+
+An AI-powered application designed to help users discover government welfare schemes based on their profile and eligibility.
+
+### ⚙️ What it does
+
+```text
+USER PROFILE
+     ↓
+UNDERSTAND USER
+     ↓
+ANALYZE SCHEMES
+     ↓
+MATCH ELIGIBILITY
+     ↓
+AI RECOMMENDATION
+     ↓
+USEFUL RESULTS
+```
+
+**Built with**
+
+`Python` `Streamlit` `Pandas` `Machine Learning` `Gemini`
+
+---
+
+## 🧠 NOTEAURA
+
+### `Notes → AI → Better Learning`
+
+An AI-powered note-taking platform that transforms ordinary notes into useful learning material.
+
+**Features**
+
+`📝 Smart Notes` · `🤖 Summaries` · `🧠 Flashcards` · `❓ MCQs` · `🔎 Smart Search`
+
+**Built with**
+
+`Next.js` `LangChain` `Gemini` `ConvexDB` `MongoDB`
+
+**Repository →**
+https://github.com/KATLAKUNTARAHUL/NoteAura
+
+---
+
+## 💻 CODEMASTERS
+
+### `Learn → Practice → Get Help`
+
+A coding learning platform with an AI assistant designed to help learners understand programming concepts and debug their code.
+
+**Features**
+
+`📚 Lessons` · `🧩 Quizzes` · `🎯 Learning Paths` · `🤖 AI Assistant`
+
+**Built with**
+
+`React` `Node.js` `MongoDB` `AI`
+
+---
+
+## ✍️ GENUINE GRADER
+
+### `Computer Vision × Handwriting Analysis`
+
+A project designed to compare handwriting and signatures and identify possible copying or forgery.
+
+**How it works**
+
+```text
+IMAGE
+  ↓
+IMAGE PROCESSING
+  ↓
+PATTERN EXTRACTION
+  ↓
+COMPARISON
+  ↓
+SIMILARITY / DIFFERENCE
+```
+
+**Built with**
+
+`Python` `OpenCV` `Machine Learning`
+
+---
+
+## 🎤 PERSONAL VOICE ASSISTANT
+
+### `Speak → Process → Respond`
+
+A Python-based voice assistant capable of receiving voice commands and performing everyday tasks.
+
+**Built with**
+
+`Python` `Speech Recognition` `Text-to-Speech`
+
+**Repository →**
+https://github.com/KATLAKUNTARAHUL/Voice-Assistant
+
+---
+
+# 🧩 MY DEVELOPMENT STACK
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,sql" />
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,spring" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
 
-### Databases
+### AI / Data
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
+<img src="https://skillicons.dev/icons?i=python" />
 
-### AI & Machine Learning
+`Machine Learning` · `Deep Learning` · `Generative AI` · `NLP`
+`Gemini` · `LangChain` · `Prompt Engineering` · `OpenCV`
+`NumPy` · `Pandas` · `Matplotlib`
 
-* Google Gemini API
-* LangChain
-* NLP
-* Machine Learning
-* Prompt Engineering
-* REST APIs
+### Databases & Tools
 
-### Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode,postman" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
+</div>
 
 ---
 
-# ⭐ Featured Project
+# 📈 GITHUB ACTIVITY
 
-## 🏛 Government Scheme Finder
+<div align="center">
 
-An AI-powered web application that helps citizens discover government welfare schemes based on their eligibility. The system simplifies access to schemes using intelligent recommendations and eligibility analysis.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KATLAKUNTARAHUL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00F7FF&icon_color=00F7FF" />
 
-### Features
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KATLAKUNTARAHUL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00F7FF" />
 
-* 🔍 Smart Scheme Search
-* 👤 Eligibility Checker
-* 🤖 AI-Based Recommendations
-* 💬 AI Chatbot
-* 📄 PDF Report Generation
-* 📊 Dashboard Analytics
-* ⚡ Fast and User-Friendly Interface
+</div>
 
-### Tech Stack
+<br/>
 
-* Python
-* Streamlit
-* Pandas
-* Machine Learning
-* PDF Generation
-* CSV Data Processing
+<div align="center">
 
----
-## ✨ NoteAura – AI Note-Taking SaaS
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KATLAKUNTARAHUL&theme=tokyonight&hide_border=true&background=0B0F19&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 
-An intelligent note-taking platform featuring AI-powered summaries, flashcards, MCQ generation, and smart search.
-
-**Tech Stack**
-
-Next.js • LangChain • ConvexDB • MongoDB • Gemini
-
-Repository
-
-👉 https://github.com/KATLAKUNTARAHUL/NoteAura
+</div>
 
 ---
 
----
+# 🏆 HIGHLIGHTS
 
-## 🛒 Custom E-Commerce Platform
-
-A modern full-stack e-commerce platform featuring secure authentication, product management, shopping cart, payment integration, and CRUD operations.
-
-Repository
-
-👉 https://github.com/KATLAKUNTARAHUL/CustomEcommerce
-
----
-
-## 🎤 Personal Voice Assistant
-
-A Python-based desktop voice assistant capable of executing voice commands and automating everyday tasks.
-
-Repository
-
-👉 https://github.com/KATLAKUNTARAHUL/Voice-Assistant
+```text
+🎓  B.Tech AI & ML
+📊  8.24 CGPA
+🤖  Multiple AI Applications
+🌐  Full-Stack Development
+🧠  Generative AI & LLM Exploration
+💻  Python + JavaScript
+🏅  Deloitte Technology Job Simulation — Top Performer
+```
 
 ---
 
-## ⚽ Catch the Ball Game
+# 📜 CERTIFICATIONS
 
-A fun browser game built using HTML5 Canvas and JavaScript.
+**Deloitte**
+Technology Job Simulation — Coding & Development
 
-Repository
+**Accenture**
+Developer & Cloud Virtual Experience
 
-👉 https://github.com/KATLAKUNTARAHUL/Ball-Game
-
----
-
-
-# 🏆 Certifications
-
-### Deloitte – Technology Job Simulation
-
-* Software Development
-* Coding
-* Problem Solving
-
-### Accenture – Developer & Cloud Virtual Experience
-
-* Software Development
-* Cloud Fundamentals
-* Problem Solving
-
-### TCS iON – Career Edge
-
-* IT Foundations
-* Corporate Communication
-* Employability Skills
-
-### 📂 All Certificates
-
-https://drive.google.com/drive/folders/1m4ptO0rd1Cgn06XymHDxui9KYXa8f6ee
+**TCS iON**
+Career Edge — IT Foundations & Corporate Skills
 
 ---
 
-# 📊 GitHub Analytics
+# 🎯 CURRENTLY
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KATLAKUNTARAHUL&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KATLAKUNTARAHUL&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KATLAKUNTARAHUL&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KATLAKUNTARAHUL&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KATLAKUNTARAHUL&theme=react-dark"/>
-</p>
+```text
+Learning        →  Generative AI · LLMs · RAG
+Building        →  AI-powered applications
+Improving       →  Machine Learning · Backend · System Design
+Looking for     →  AI/ML & Software Engineering Opportunities
+```
 
 ---
 
-# 🏅 GitHub Trophies
+# 🤝 LET'S CONNECT
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KATLAKUNTARAHUL&theme=tokyonight&margin-w=15&margin-h=15&row=2&column=4"/>
-</p>
+<div align="center">
 
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/rahul-katlakunta-ab9009329">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://rahul-protfolio.lovable.app">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-00F7FF?style=for-the-badge&labelColor=0B0F19" />
 </a>
 
-<a href="mailto:katlakuntarahul722@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://www.linkedin.com/in/rahul-katlakunta-ab9009329">
+<img src="https://img.shields.io/badge/LINKEDIN-0B66C3?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/KATLAKUNTARAHUL">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=black" />
 </a>
-</p>
 
----
+<a href="mailto:katlakuntarahul722@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<h3 align="center">
+</div>
 
-⭐ Thanks for visiting my GitHub profile! ⭐
+<br/>
 
-*"Building innovative AI-powered solutions that solve real-world problems."*
+<div align="center">
 
-</h3>
+### ⚡ Build. Break. Learn. Build Again.
+
+**Thanks for visiting my profile.**
+
+</div>
